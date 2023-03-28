@@ -1,0 +1,29 @@
+body {
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.yug-img {
+    width: 150px;
+}
+
+.card {
+    background: #dda15e;
+    color: #663307;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 5px 20px;
+    text-align: center;
+    border-bottom: 10px solid #86633c;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+
+
